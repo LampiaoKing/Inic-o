@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100&display=swap');
+
+h1 {
+  color: blue ;
+  font-family: 'Anek Malayalam', sans-serif
+}
+strong{
+  color: red;
+}
